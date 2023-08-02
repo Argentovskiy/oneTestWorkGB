@@ -10,7 +10,7 @@
 //===========================================================================
 
 using System.Globalization;
-
+// вывод в консоль масива
 void printArray(string[] strArr)
 {
   System.Console.Write("[");
