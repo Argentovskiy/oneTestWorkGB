@@ -22,7 +22,7 @@ void printArray(string[] strArr)
   System.Console.Write("]");
 }
 
-string[] lengthLessthet(string[] StrArr)
+string[] StringlengthLess(string[] StrArr)
 {
   
   int k=0;
@@ -45,4 +45,4 @@ string[] StringArray = {"Hello", "211", "world", ":-)","12"};
 printArray(StringArray);
 
 System.Console.Write(" → ");
-printArray(lengthLessthet(StringArray));
+printArray(StringlengthLess(StringArray));
