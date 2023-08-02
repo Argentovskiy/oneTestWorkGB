@@ -1,0 +1,15 @@
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.csproj.AssemblyReference.cache
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.AssemblyInfoInputs.cache
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.AssemblyInfo.cs
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.csproj.CoreCompileInputs.cache
+C:\OneTestWorkGB\bin\Debug\net7.0\OneTestWorkGB.exe
+C:\OneTestWorkGB\bin\Debug\net7.0\OneTestWorkGB.deps.json
+C:\OneTestWorkGB\bin\Debug\net7.0\OneTestWorkGB.runtimeconfig.json
+C:\OneTestWorkGB\bin\Debug\net7.0\OneTestWorkGB.dll
+C:\OneTestWorkGB\bin\Debug\net7.0\OneTestWorkGB.pdb
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.dll
+C:\OneTestWorkGB\obj\Debug\net7.0\refint\OneTestWorkGB.dll
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.pdb
+C:\OneTestWorkGB\obj\Debug\net7.0\OneTestWorkGB.genruntimeconfig.cache
+C:\OneTestWorkGB\obj\Debug\net7.0\ref\OneTestWorkGB.dll
